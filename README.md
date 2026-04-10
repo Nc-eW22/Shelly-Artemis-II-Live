@@ -1,4 +1,4 @@
-# SPARK_LABS · Artemis II Mission Control
+# ⚡SPARK_LABS · Artemis II Mission Control
 
 ![Artemis II UI](Artemis_II_UI.png)
 
